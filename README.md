@@ -6,11 +6,7 @@
 ### <div align="center">I'm Than , a full-stack Software Developer 👨‍💻 Working since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [CNN](https://github.com/ThanyabunPh/cnn_fp)  
-  
-
-- 🌱 I’m currently learning Pytorch CNN.  
-  
+- 🔭 I’m currently working on React-JS
 
 - ⚡ Fun fact: I use tabs over spaces  
   
