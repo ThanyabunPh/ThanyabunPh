@@ -8,7 +8,7 @@
 <p align="left">- 🌌 I'm currently working on React-Native.</p>
 <p align="left">- 🧨 I’m currently learning in basic data analytics. </p>
 
-
+----
 <br>
 
 <div align="center">
@@ -17,13 +17,10 @@
   <img src="https://streak-stats.demolab.com?user=ThanyabunPh&locale=en&mode=weekly&theme=material-palenight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+----
 ###
-
-<img align="right" height="174" src="https://media.tenor.com/Ow6kKhsT7dgAAAAC/pppoof.gif"  />
-
-###
-
-<div align="center">
+<img align="right" height="200" src="https://media.tenor.com/Ow6kKhsT7dgAAAAC/pppoof.gif"  />
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
@@ -48,7 +45,9 @@
 </div>
 
 ###
-
+###
+###
+###
 <br>
 
 <div align="center">
