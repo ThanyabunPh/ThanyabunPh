@@ -2,11 +2,15 @@
 
 <h1 align="center">👨🏻‍💻 Hi, U can call me "Than"  a full-stack Software Developer.</h1>
 
-###
+######
 
-<p align="left">- 🌌 I'm currently woring on React-Native</p>
+---
 
-##
+<p align="left">- 🌌 I'm currently working on React-Native</p>
+<p align="left">- ?? I’m currently learning in basic data analytics </p>
+
+---
+
 <br>
 
 <div align="center">
@@ -17,14 +21,12 @@
 
 ###
 
-<br clear="both">
+---
+<br>
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21cd32hdeesbczmil7l2px6da&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
-</div> 
-
-###
-
+</div>
 
 
 <div align="center"></div>
