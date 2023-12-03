@@ -6,12 +6,8 @@
 
 <p align="left">- 🌌 I'm currently woring on React-Native</p>
 
-###
-
-<div align="left">
-</div>
-
-###
+##
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThanyabunPh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -23,30 +19,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ThanyabunPh/ThanyabunPh/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ThanyabunPh/count.svg?"  />
-</div>
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=21cd32hdeesbczmil7l2px6da&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
+</div> 
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/21cd32hdeesbczmil7l2px6da?si=1c3df1ba58e9447e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/21cd32hdeesbczmil7l2px6da?si=1c3df1ba58e9447e&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<br/>  
-
-<div align="center"></div>
-  <a href="https://open.spotify.com/user/https://open.spotify.com/user/21cd32hdeesbczmil7l2px6da?si=1c3df1ba58e9447e">
-  </a>
-</div>
 
 
 
